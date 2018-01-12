@@ -2,7 +2,7 @@
 
 [![Gitter](https://badges.gitter.im/MingxuZhang/DownGit.svg)](https://gitter.im/MingxuZhang/DownGit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Fork from MingxuZhang to enhance my personal pages. Thanks very much to his extraordinary work.
+Fork from MinhasKamal to enhance my personal pages. Thanks very much to his extraordinary work.
 
 #### Create GitHub Resource Download Link
 
